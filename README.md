@@ -1,1 +1,1 @@
-# zenvibes.github.io
+#terms.html
